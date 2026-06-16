@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#ffcf77" offset="0"/>
+      <stop stop-color="#8fd694" offset="0.45"/>
+      <stop stop-color="#8b6fff" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect rx="34" width="900" height="320" fill="#fff7e8"/>
+  <circle cx="150" cy="160" r="92" fill="url(#g)" opacity="0.88"/>
+  <path d="M118 110 C102 145, 105 220, 150 230 C195 220, 198 145, 182 110 C160 124, 140 124, 118 110Z" fill="#7a411c" opacity="0.9"/>
+  <path d="M112 110 C112 82, 188 82, 188 110 C170 126, 130 126, 112 110Z" fill="#9d5b2a"/>
+  <text x="285" y="138" font-family="Arial" font-size="46" font-weight="800" fill="#7a411c">Echoes of Clay</text>
+  <text x="286" y="188" font-family="Arial" font-size="24" fill="#5f4b3b">Reconstructing Ancient Worlds Through Play</text>
+  <text x="286" y="232" font-family="Arial" font-size="20" fill="#7e6b5a">Create · Experience · Infer · Uncertainty · Cultural Reasoning</text>
+</svg>
