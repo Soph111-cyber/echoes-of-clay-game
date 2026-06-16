@@ -1,0 +1,5 @@
+[
+  {"id":"lotus_half","zh":"半朵莲花纹陶片","en":"Half-lotus ceramic shard","visible":"left petal + central seedpod + green glaze","options":["lotus","grapevine","pearl_roundel","animal"],"answer":"lotus","confidence":0.78,"explain_zh":"可见的花瓣轴线与中心莲蓬更符合莲花纹，但残片过小，仍需保留不确定性。","explain_en":"The visible petal axis and central seedpod fit a lotus motif, but the shard is small, so uncertainty remains."},
+  {"id":"roundel_edge","zh":"联珠边缘纹样","en":"Pearl roundel edge","visible":"repeated beads + curved border + cobalt trace","options":["cloud","pearl_roundel","floral","geometric"],"answer":"pearl_roundel","confidence":0.72,"explain_zh":"连续珠点与弧形边框提示联珠纹，蓝色残留也暗示跨区域审美。","explain_en":"Repeated beads and a curved border suggest a pearl roundel; blue traces may imply cross-regional aesthetics."},
+  {"id":"vine_curve","zh":"卷草葡萄残纹","en":"Vine and grape fragment","visible":"curling stem + small round fruit + amber glaze","options":["grapevine","lotus","cloud","animal"],"answer":"grapevine","confidence":0.81,"explain_zh":"卷曲藤蔓和圆形果实更接近葡萄纹，常可连接丝路植物与装饰语言。","explain_en":"Curling stems and small round fruit align with grapevine motifs, often connected to Silk Road decorative language."}
+]

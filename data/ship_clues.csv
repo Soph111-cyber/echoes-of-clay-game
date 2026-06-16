@@ -1,0 +1,6 @@
+artifact,form,glaze,motif,context,origin_hint,weight_china,weight_central_asia,weight_persia,weight_indian_ocean
+ceramic_shard,bowl,green,lotus,cargo_crate,Lotus motifs and green glaze can suggest Chinese production or Buddhist networks,0.40,0.20,0.15,0.25
+blue_glaze_fragment,vessel,cobalt,pearl_roundel,captain_chest,Cobalt and pearl roundels may indicate strong western/central Asian connections,0.15,0.35,0.35,0.15
+camel_figurine,camel,amber,grapevine,upper_deck,Camel form links to overland trade and cosmopolitan Tang imagery,0.30,0.35,0.20,0.15
+spice_jar,jar,brown,geometric,lower_hold,Spice storage can point toward Indian Ocean exchange networks,0.10,0.20,0.20,0.50
+coin_cluster,coin,none,inscription,near_mast,Coins can record movement across political and commercial zones,0.30,0.25,0.25,0.20

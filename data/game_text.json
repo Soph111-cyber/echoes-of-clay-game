@@ -1,0 +1,13 @@
+{
+  "title_zh":"Echoes of Clay：泥土回声",
+  "title_en":"Echoes of Clay: Reconstructing Ancient Worlds Through Play",
+  "tagline_zh":"把考古从静态知识变成互动系统：玩家在选择、不确定性与文化推理中重建历史。",
+  "tagline_en":"Transform archaeology from static knowledge into interactive systems where users reconstruct history through decisions, uncertainty, and cultural reasoning.",
+  "modules":[
+    {"id":"kiln","zh":"Kiln of Identity｜窑中的身份","en":"Kiln of Identity","desc_zh":"制作唐三彩，但目标不是好看，而是让造型、釉色、纹样与社会身份发生关系。","desc_en":"Create Tang Sancai by connecting form, glaze, motif, and social identity."},
+    {"id":"silk","zh":"Walk the Silk Road｜行走丝路","en":"Walk the Silk Road","desc_zh":"通过选择改变文化路径，体验文化传播不是单向扩散，而是不断协商。","desc_en":"Make decisions along the Silk Road and see cultural transmission as negotiation rather than one-way diffusion."},
+    {"id":"ship","zh":"Ship of Clues｜沉船线索","en":"Ship of Clues","desc_zh":"根据器型、釉色、纹样、位置判断沉船来源和贸易路线。","desc_en":"Infer a ship’s origin and route from forms, glazes, motifs, and contexts."},
+    {"id":"reconstruct","zh":"Reconstruct the Past｜复原残片","en":"Reconstruct the Past","desc_zh":"根据残缺纹样推测缺失部分，并给出不确定性解释。","desc_en":"Infer missing visual patterns and explain uncertainty."},
+    {"id":"flow","zh":"Flow of Culture｜文化流动模拟器","en":"Flow of Culture","desc_zh":"改变贸易、战争、政策参数，观察风格如何在网络中扩散或消失。","desc_en":"Adjust trade, conflict, and policy parameters to simulate how style spreads or fades."}
+  ]
+}
